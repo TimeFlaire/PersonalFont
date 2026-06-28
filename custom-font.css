@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'MyCustomFont';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://your-domain.com/fonts/MyCustomFont.woff2') format('woff2');
+}
+
+/* Add more weights/styles as needed */
